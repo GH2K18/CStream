@@ -18,12 +18,11 @@
         ],
         "version": 196,
         "internalName": "SoraStream",
-        "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
         "name": "SoraStream"
     },
     {
-        "iconUrl": "https://codeberg.org/cloudstream/cloudstream-extensions/src/branch/master/SuperStream/icon.png",
+        "iconUrl": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/master/SuperStream/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
         "fileSize": 55968,
@@ -44,7 +43,7 @@
         "name": "SuperStream"
     },
     {
-        "iconUrl": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated/src/branch/master/SoraStream/Icon.png",
+        "iconUrl": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated/raw/branch/master/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated",
         "fileSize": 266536,
@@ -62,9 +61,8 @@
         ],
         "version": 196,
         "internalName": "SoraStream_Backup-1",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated/src/branch/builds/SoraStream.cs3",
-        "name": "SoraStream"
+        "url": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated/raw/branch/builds/SoraStream.cs3",
+        "name": "SoraStream_Backup-1"
     },
     {
         "iconUrl": "",
@@ -85,8 +83,7 @@
         ],
         "version": 196,
         "internalName": "SoraStream_Backup-2",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://codeberg.org/yuje12/cloudstream-extensions-hexated-new/src/branch/builds/SoraStream.cs3",
-        "name": "SoraStream"
+        "url": "https://codeberg.org/yuje12/cloudstream-extensions-hexated-new/raw/branch/builds/SoraStream.cs3",
+        "name": "SoraStream_Backup-2"
     }
 ]
