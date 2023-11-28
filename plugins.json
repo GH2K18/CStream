@@ -23,7 +23,7 @@
         "name": "SoraStream"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/SuperStream/icon.png",
+        "iconUrl": "https://codeberg.org/cloudstream/cloudstream-extensions/src/branch/master/SuperStream/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
         "fileSize": 55968,
@@ -42,5 +42,51 @@
         "internalName": "SuperStream",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/SuperStream.cs3",
         "name": "SuperStream"
+    },
+    {
+        "iconUrl": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated/src/branch/master/SoraStream/Icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated",
+        "fileSize": 266536,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 196,
+        "internalName": "SoraStream_Backup-1",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated/src/branch/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/yuje12/cloudstream-extensions-hexated-new",
+        "fileSize": 266536,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 196,
+        "internalName": "SoraStream_Backup-2",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://codeberg.org/yuje12/cloudstream-extensions-hexated-new/src/branch/builds/SoraStream.cs3",
+        "name": "SoraStream"
     }
 ]
