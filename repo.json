@@ -1,8 +1,8 @@
 {
-    "name": "English providers repository",
-    "description": "English Plugin Repository",
+    "name": "Repository",
+    "description": "SoraStream and SuperStream",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/GH2K18/CStream/main/plugins.json?token=GHSAT0AAAAAACK4OANETCYUZK6RFAZGMHJQZLF4FEA"
     ]
-  }
+}
