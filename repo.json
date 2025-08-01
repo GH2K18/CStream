@@ -1,6 +1,6 @@
 {
     "name": "Repository",
-    "description": "SoraStream and SuperStream",
+    "description": "StreamPlay, NetflixMirror, DisneyMirror, PrimeVideoMirror",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/GH2K18/CStream/main/plugins.json"
