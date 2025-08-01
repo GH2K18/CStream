@@ -1,112 +1,89 @@
 [
-    {
+     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GH2K18/CStream",
-        "fileSize": 366631,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 738930,
         "status": 1,
         "language": "en",
         "authors": [
             "Phisher98",
-            "CStream"
+            "Hexated"
         ],
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 73,
-        "internalName": "StreamPlay",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/StreamPlay.cs3",
-        "name": "StreamPlay"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 266536,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated",
-            "Sora"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
-        "version": 196,
-        "internalName": "SoraStream",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "SoraStream"
-    },
-    {
-        "iconUrl": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/master/SuperStream/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 55968,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
             "Anime",
             "Movie",
-            "AnimeMovie",
-            "TvSeries"
+            "Cartoon",
+            "AnimeMovie"
         ],
-        "version": 9,
-        "internalName": "SuperStream",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/SuperStream.cs3",
-        "name": "SuperStream"
+        "version": 360,
+        "internalName": "StreamPlay",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
     },
-    {
-        "iconUrl": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated/raw/branch/master/SoraStream/Icon.png",
+	{
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated",
-        "fileSize": 266536,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 45121,
         "status": 1,
-        "language": "en",
         "authors": [
-            "Hexated",
-            "Sora"
+            "megix"
         ],
         "tvTypes": [
-            "AsianDrama",
+            "Movie",
             "TvSeries",
-            "Anime",
-            "Movie"
+            "AsianDrama",
+            "Anime"
         ],
-        "version": 196,
-        "internalName": "SoraStream_Backup-1",
-        "url": "https://codeberg.org/wel2001at/cloudstream-extensions-hexated/raw/branch/builds/SoraStream.cs3",
-        "name": "SoraStream_Backup-1"
+        "version": 29,
+        "internalName": "NetflixMirrorProvider",
+        "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
+        "name": "NetflixMirrorProvider"
     },
-    {
-        "iconUrl": "",
+	 {
+        "iconUrl": "https://fzmovies.net/logo/imageedit_1_4567867331.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/yuje12/cloudstream-extensions-hexated-new",
-        "fileSize": 266536,
-        "status": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 12413,
+        "status": 0,
         "language": "en",
         "authors": [
-            "Hexated",
-            "Sora"
+            "Redowan"
         ],
         "tvTypes": [
-            "AsianDrama",
+            "Movie",
+            "AnimeMovie"
+        ],
+        "version": 14,
+        "internalName": "FzMovies",
+        "description": "Only movie provider",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzMovies.cs3",
+        "name": "FzMovies"
+    },
+    {
+        "iconUrl": "https://fztvseries.live/logo/fztvseries2.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 10900,
+        "status": 2,
+        "language": "en",
+        "authors": [
+            "Redowan"
+        ],
+        "tvTypes": [
             "TvSeries",
             "Anime",
-            "Movie"
+            "Cartoon"
         ],
-        "version": 196,
-        "internalName": "SoraStream_Backup-2",
-        "url": "https://codeberg.org/yuje12/cloudstream-extensions-hexated-new/raw/branch/builds/SoraStream.cs3",
-        "name": "SoraStream_Backup-2"
+        "version": 4,
+        "internalName": "FzTvSeries",
+        "description": "Only TvSeries provider",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzTvSeries.cs3",
+        "name": "FzTvSeries"
     }
 ]
