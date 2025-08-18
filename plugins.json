@@ -101,7 +101,7 @@
             "TvSeries"
         ],
         "version": 360,
-        "internalName": "1 StreamPlay",
+        "internalName": "11 StreamPlay",
         "description": "Phisher Repo",
         "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/StreamPlay.cs3",
         "name": "11 StreamPlay (Archive)"
@@ -120,7 +120,7 @@
             "TvSeries"
         ],
         "version": 29,
-        "internalName": "NetflixMirror",
+        "internalName": "12 NetflixMirror",
         "description": "CSX Repo",
         "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/NetflixMirrorProvider.cs3",
         "name": "12 NetflixMirror (Archive)"
@@ -139,7 +139,7 @@
             "Movie"
         ],
         "version": 14,
-        "internalName": "FzMovies",
+        "internalName": "14 FzMovies",
         "description": "FzMovies",
         "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/FzMovies.cs3",
         "name": "14 FzMovies (Archive)"
@@ -158,7 +158,7 @@
             "TvSeries"
         ],
         "version": 4,
-        "internalName": "FzTvSeries",
+        "internalName": "13 FzTvSeries",
         "description": "FzTvSeries",
         "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/FzTvSeries.cs3",
         "name": "13 FzTvSeries (Archive)" 
