@@ -22,7 +22,7 @@
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
-        "name": "StreamPlay (Live)"
+        "name": "StreamPlay"
     },
 	{
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
@@ -43,7 +43,7 @@
         "internalName": "NetflixMirrorProvider",
         "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider (Live)"
+        "name": "NetflixMirrorProvider"
     },
 	 {
         "iconUrl": "https://fzmovies.net/logo/imageedit_1_4567867331.png",
@@ -63,7 +63,7 @@
         "internalName": "FzMovies",
         "description": "Only movie provider",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzMovies.cs3",
-        "name": "FzMovies (Live)"
+        "name": "FzMovies"
     },
     {
         "iconUrl": "https://fztvseries.live/logo/fztvseries2.png",
@@ -84,7 +84,7 @@
         "internalName": "FzTvSeries",
         "description": "Only TvSeries provider",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzTvSeries.cs3",
-        "name": "FzTvSeries (Live)"
+        "name": "FzTvSeries"
     }, 
      {
         "iconUrl": "https://github.com/GH2K18/CStream/StreamPlay.png",
@@ -123,14 +123,14 @@
         "internalName": "NetflixMirrorProvider (Archive)",
         "description": "CSX Repo",
         "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/NetflixMirrorProvider.cs3",
-        "name": "Netflix Mirror Provider (Archive)"
+        "name": "NetflixMirrorProvider (Archive)"
     },
 	 {
         "iconUrl": "https://github.com/GH2K18/CStream/blob/main/FzMovies.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 12413,
-        "status": 1,
+        "status": 2,
         "language": "en",
         "authors": [
             "GH2K18"
@@ -149,7 +149,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 10900,
-        "status": 0,
+        "status": 1,
         "language": "en",
         "authors": [
             "GH2K18"
