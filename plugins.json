@@ -85,7 +85,7 @@
         "description": "Only TvSeries provider",
         "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzTvSeries.cs3",
         "name": "FzTvSeries"
-    }
+    }, 
      {
         "iconUrl": "https://github.com/GH2K18/CStream/StreamPlay.png",
         "apiVersion": 1,
