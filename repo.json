@@ -1,6 +1,6 @@
 {
     "name": "Repository",
-    "description": "StreamPlay, NetflixMirror, DisneyMirror, PrimeVideoMirror",
+    "description": "StreamPlay, NetflixMirror, DisneyMirror, PrimeVideoMirror, FzTvSeries, FzMovies (Disabled)",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/GH2K18/CStream/main/plugins.json"
