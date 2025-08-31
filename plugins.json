@@ -109,7 +109,7 @@
         "name": "FzTvSeries"
     }
      {
-        "iconUrl": "https://github.com/GH2K18/CStream/StreamPlay.png",
+        "iconUrl": "https://github.com/GH2K18/CStream/main/icons/StreamPlay.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 738930,
@@ -129,7 +129,7 @@
         "name": "StreamPlay"
     },
 	{
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/NetflixMirrorProvider.png",
+        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/NetflixMirrorProvider.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 45121,
@@ -148,7 +148,7 @@
         "name": "NetflixMirrorProvider"
     },
 	{
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/CineStream.png",
+        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/CineStream.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 309872,
@@ -167,7 +167,7 @@
         "name": "CineStream"
     },
 	 {
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/FzMovies.png",
+        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/FzMovies.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 12413,
@@ -186,7 +186,7 @@
         "name": "FzMovies"
     },
     {
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/FzTvSeries.png",
+        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/FzTvSeries.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 10900,
