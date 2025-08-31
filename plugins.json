@@ -21,7 +21,7 @@
         "version": 360,
         "internalName": "StreamPlay (Live)",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/main/StreamPlay.cs3",
         "name": "StreamPlay"
     },
 	{
@@ -42,7 +42,7 @@
         "version": 29,
         "internalName": "NetflixMirrorProvider (Live)",
         "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/main/NetflixMirrorProvider.cs3",
         "name": "NetflixMirrorProvider"
     },
 	{
@@ -64,7 +64,7 @@
         "version": 202,
         "internalName": "CineStream (Live)",
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/main/CineStream.cs3",
         "name": "CineStream"
     },
 	 {
@@ -84,7 +84,7 @@
         "version": 14,
         "internalName": "FzMovies (Live)",
         "description": "Only movie provider",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzMovies.cs3",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/main/FzMovies.cs3",
         "name": "FzMovies"
     },
     {
@@ -105,7 +105,7 @@
         "version": 4,
         "internalName": "FzTvSeries (Live)",
         "description": "Only TvSeries provider",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/FzTvSeries.cs3",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/main/FzTvSeries.cs3",
         "name": "FzTvSeries"
     }
      {
@@ -125,7 +125,7 @@
         "version": 360,
         "internalName": "StreamPlay (Archive)",
         "description": "StreamPlay",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/StreamPlay.cs3",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/StreamPlay.cs3",
         "name": "StreamPlay"
     },
 	{
@@ -144,7 +144,7 @@
         "version": 29,
         "internalName": "NetflixMirrorProvider (Archive)",
         "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock)",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/NetflixMirrorProvider.cs3",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/NetflixMirrorProvider.cs3",
         "name": "NetflixMirrorProvider"
     },
 	{
@@ -163,7 +163,7 @@
         "version": 202,
         "internalName": "CineStream (Archive)",
         "description": "CineStream",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/CineStream.cs3",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/CineStream.cs3",
         "name": "CineStream"
     },
 	 {
@@ -182,7 +182,7 @@
         "version": 14,
         "internalName": "FzMovies (Archive)",
         "description": "FzMovies",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/FzMovies.cs3",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/FzMovies.cs3",
         "name": "FzMovies"
     },
     {
@@ -201,7 +201,7 @@
         "version": 4,
         "internalName": "FzTvSeries (Archive)",
         "description": "FzTvSeries",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/builds/FzTvSeries.cs3",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/FzTvSeries.cs3",
         "name": "FzTvSeries"
     }
 ]
