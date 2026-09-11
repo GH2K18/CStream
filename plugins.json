@@ -20,7 +20,7 @@
         "name": "StreamPlay-NoAds (Archive)"
     },
 	{
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/NetflixMirrorProvider.png",
+        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/CNCVerse.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 45121,
@@ -37,6 +37,25 @@
         "description": "Netflix, PrimeVideo, JioHotstar (Hotstar, Disney, Paramount, HBO, Peacock)",
         "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/CNCVerse-v108.cs3",
         "name": "CNCVerse-NoAds (Archive)"
+    },
+	{
+        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/NetflixMirrorProvider.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GH2K18/CStream",
+        "fileSize": 45121,
+        "status": 1,
+        "authors": [
+            "GH2K18"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 29,
+        "internalName": "NetflixMirrorProvider (Archive)",
+        "description": "Netflix, PrimeVideo, JioHotstar (Hotstar, Disney, Paramount, HBO, Peacock)",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/NetflixMirrorProvider-v44.cs3",
+        "name": "NetflixMirrorProvider (Archive)"
     },
 	{
         "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/CineStream.png",
