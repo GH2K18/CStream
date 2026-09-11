@@ -1,5 +1,63 @@
 [
      {
+        "iconUrl": "https://github.com/GH2K18/CStream/main/icons/StreamPlay.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GH2K18/CStream",
+        "fileSize": 738930,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "GH2K18"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 663,
+        "internalName": "StreamPlay (Archive)",
+        "description": "StreamPlay",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/StreamPlay-v663.cs3",
+        "name": "StreamPlay-NoAds (Archive)"
+    },
+	{
+        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/NetflixMirrorProvider.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GH2K18/CStream",
+        "fileSize": 45121,
+        "status": 1,
+        "authors": [
+            "GH2K18"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 108,
+        "internalName": "CNCVerse (Archive)",
+        "description": "Netflix, PrimeVideo, JioHotstar (Hotstar, Disney, Paramount, HBO, Peacock)",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/CNCVerse-v108.cs3",
+        "name": "CNCVerse-NoAds (Archive)"
+    },
+	{
+        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/CineStream.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GH2K18/CStream",
+        "fileSize": 309872,
+        "status": 1,
+        "authors": [
+            "GH2K18"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 202,
+        "internalName": "CineStream (Archive)",
+        "description": "CineStream",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/CineStream-v487.cs3",
+        "name": "CineStream-NoAds (Archive)"
+    },
+     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
@@ -22,31 +80,31 @@
         "internalName": "StreamPlay (Live)",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/main/StreamPlay.cs3",
-        "name": "StreamPlay (Live)"
+        "name": "StreamPlay-Ads (Live)"
     },
-	{
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
+ {
+        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
+        "fileHash": "sha256-aed23aad49b22ee359e3456cc90ae3bef0fbd99dea50bd5b5a39f1aa24e54f56",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 45121,
+        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+        "fileSize": 100861,
         "status": 1,
+        "language": "ta",
         "authors": [
-            "megix"
+            "NivinCNC"
         ],
         "tvTypes": [
             "Movie",
-            "TvSeries",
-            "AsianDrama",
-            "Anime"
+            "TvSeries"
         ],
-        "version": 29,
-        "internalName": "NetflixMirrorProvider (Live)",
-        "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/main/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider (Live)"
+        "version": 110,
+        "internalName": "CNC Verse",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC%20Verse.cs3",
+        "name": "CNC Verse-Ads (Live)"
     },
 	{
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
         "fileSize": 309872,
@@ -66,142 +124,5 @@
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/main/CineStream.cs3",
         "name": "CineStream (Live)"
-    },
-	 {
-        "iconUrl": "https://fzmovies.net/logo/imageedit_1_4567867331.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 12413,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Redowan"
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie"
-        ],
-        "version": 14,
-        "internalName": "FzMovies (Live)",
-        "description": "Only movie provider",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/main/FzMovies.cs3",
-        "name": "FzMovies (Live)"
-    },
-    {
-        "iconUrl": "https://fztvseries.live/logo/fztvseries2.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 10900,
-        "status": 2,
-        "language": "en",
-        "authors": [
-            "Redowan"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 4,
-        "internalName": "FzTvSeries (Live)",
-        "description": "Only TvSeries provider",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/main/FzTvSeries.cs3",
-        "name": "FzTvSeries (Live)"
-    },
-     {
-        "iconUrl": "https://github.com/GH2K18/CStream/main/icons/StreamPlay.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GH2K18/CStream",
-        "fileSize": 738930,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "GH2K18"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 360,
-        "internalName": "StreamPlay (Archive)",
-        "description": "StreamPlay",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/StreamPlay.cs3",
-        "name": "StreamPlay (Archive)"
-    },
-	{
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/NetflixMirrorProvider.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GH2K18/CStream",
-        "fileSize": 45121,
-        "status": 1,
-        "authors": [
-            "GH2K18"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 29,
-        "internalName": "NetflixMirrorProvider (Archive)",
-        "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock)",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/NetflixMirrorProvider.cs3",
-        "name": "NetflixMirrorProvider (Archive)"
-    },
-	{
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/CineStream.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GH2K18/CStream",
-        "fileSize": 309872,
-        "status": 1,
-        "authors": [
-            "GH2K18"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 202,
-        "internalName": "CineStream (Archive)",
-        "description": "CineStream",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/CineStream.cs3",
-        "name": "CineStream (Archive)"
-    },
-	 {
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/FzMovies.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GH2K18/CStream",
-        "fileSize": 12413,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "GH2K18"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 14,
-        "internalName": "FzMovies (Archive)",
-        "description": "FzMovies",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/FzMovies.cs3",
-        "name": "FzMovies (Archive)"
-    },
-    {
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/FzTvSeries.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/GH2K18/CStream",
-        "fileSize": 10900,
-        "status": 2,
-        "language": "en",
-        "authors": [
-            "GH2K18"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "FzTvSeries (Archive)",
-        "description": "FzTvSeries",
-        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/FzTvSeries.cs3",
-        "name": "FzTvSeries (Archive)"
     }
 ]
