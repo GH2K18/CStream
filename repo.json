@@ -1,6 +1,6 @@
 {
     "name": "Repository",
-    "iconUrl": "https://static.vecteezy.com/system/resources/thumbnails/051/957/229/small_2x/vibrant-clouds-with-stunning-sunset-hues-of-pink-orange-and-blue-creating-a-beautiful-and-serene-sky-scene-png.png", 
+    "iconUrl": "https://raw.githubusercontent.com/GH2K18/CStream/refs/heads/main/icons/clouds.png", 
     "description": "StreamPlay (Archive/Live), CNCVerse (Archive/Live), CineStream (Archive/Live), Netmirror (Live), NetflixMirrorProvider (Archive)",
     "manifestVersion": 1,
     "pluginLists": [
