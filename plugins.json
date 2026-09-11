@@ -51,7 +51,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 29,
+        "version": 44,
         "internalName": "NetflixMirrorProvider (Archive)",
         "description": "Netflix, PrimeVideo, JioHotstar (Hotstar, Disney, Paramount, HBO, Peacock)",
         "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/NetflixMirrorProvider-v44.cs3",
