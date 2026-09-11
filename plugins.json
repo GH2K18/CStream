@@ -1,6 +1,6 @@
 [
      {
-        "iconUrl": "https://github.com/GH2K18/CStream/main/icons/StreamPlay.png",
+        "iconUrl": "https://raw.githubusercontent.com/GH2K18/CStream/refs/heads/main/icons/StreamPlay.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 1051619,
@@ -20,7 +20,7 @@
         "name": "StreamPlay-NoAds (Archive)"
     },
 	{
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/CNCVerse.jpg",
+        "iconUrl": "https://raw.githubusercontent.com/GH2K18/CStream/refs/heads/main/icons/CNCVerse.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 98583,
@@ -39,7 +39,7 @@
         "name": "CNCVerse-NoAds (Archive)"
     },
 	{
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/NetflixMirrorProvider.png",
+        "iconUrl": "https://raw.githubusercontent.com/GH2K18/CStream/refs/heads/main/icons/NetflixMirrorProvider.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 54882,
@@ -58,7 +58,7 @@
         "name": "NetflixMirrorProvider (Archive)"
     },
 	{
-        "iconUrl": "https://github.com/GH2K18/CStream/blob/main/icons/CineStream.png",
+        "iconUrl": "https://raw.githubusercontent.com/GH2K18/CStream/refs/heads/main/icons/Cinestream.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/GH2K18/CStream",
         "fileSize": 695013,
@@ -67,8 +67,8 @@
             "GH2K18"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "Movie",
+            "TvSeries"
         ],
         "version": 487,
         "internalName": "CineStream (Archive)",
@@ -132,8 +132,8 @@
             "megix"
         ],
         "tvTypes": [
-            "TvSeries",
             "Movie",
+            "TvSeries",
             "AsianDrama",
             "Anime",
             "Torrent"
