@@ -1,6 +1,6 @@
 {
     "name": "Repository",
-    "description": "StreamPlay (Archive/Live), CNCVerse (Archive/Live), CineStream (Archive/Live), NetflixMirrorProvider (Archive)",
+    "description": "StreamPlay (Archive/Live), CNCVerse (Archive/Live), CineStream (Archive/Live), Netmirror (Live), NetflixMirrorProvider (Archive)",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/GH2K18/CStream/main/plugins.json"
