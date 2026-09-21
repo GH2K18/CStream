@@ -124,7 +124,7 @@
 	}, 
     {
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-        "fileHash": "sha256-3ffa92ac07ad7aad9d552354146342a6167abab16fb016558deb63284d224f20",
+        "fileHash": "sha256-3ffa92ac07ad7aad9d552354146342a6167abab16fb016558deb63284d224f02",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
         "fileSize": 104840,
