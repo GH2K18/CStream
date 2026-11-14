@@ -183,6 +183,26 @@
         "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
         "name": "Netmirror (Live)"
     },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/GH2K18/CStream/refs/heads/main/icons/StreamPlay.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GH2K18/CStream",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "GH2K18"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 701,
+        "internalName": "StreamPlay (Mod)",
+        "description": "StreamPlay (Mod)",
+        "url": "https://raw.githubusercontent.com/GH2K18/CStream/main/streamplay-v701_mod.cs3",
+        "name": "StreamPlay (Mod)"
+    },
+
 	{
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
         "status": 2,
